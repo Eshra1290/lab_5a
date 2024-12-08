@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Lab 5a Q3</title>
+    <title>Lab 5a Question3</title>
     <style>
         table {
             border-collapse: collapse;
